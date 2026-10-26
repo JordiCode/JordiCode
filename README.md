@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello, I'm Jordi 👋
 
-<!--
-**JordiCode/JordiCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Front-End Web Developer** with UI/UX design skills, based in Santiago, Dominican Republic 🇩🇴
 
-Here are some ideas to get you started:
+Since 2022, I've been living and breathing code, building personal projects and landing pages for clients. Along the way, I've grown a lot as a developer and learned to solve real problems with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Focusing on
+
+- 🗣️ Improving my English, especially my speaking
+- 🖥️ Building **ComLang**, a language learning app
+
+## 🛠️ Tech Stack & Tools ✨
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwindcss,mui,nodejs,express,postgres,git,github,npm,vscode,linux,obsidian,figma,vercel" width="650" />
+</p>
+
+## 📫 Contact
+
+- 📧 jordigabriel1609@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/jordicode)
