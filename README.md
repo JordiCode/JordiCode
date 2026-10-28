@@ -7,7 +7,7 @@ Since 2022, I've been living and breathing code, building personal projects and 
 ## 🌱 What I'm Focusing on
 
 - 🗣️ Improving my English, especially my speaking
-- 🖥️ Building **ComLang**, a language learning app
+- 🖥️ Building **ComLang**, a language learning desktop app
 - 💼 Looking for job opportunities
 
 ## 🛠️ Tech Stack & Tools ✨
